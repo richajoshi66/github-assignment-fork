@@ -18,3 +18,5 @@ This project demonstrates proper GitHub repository setup with all essential file
 2. Run the simple interest calculator:
    ```bash
    bash simple-interest.sh
+
+## This is the bugfix branch
